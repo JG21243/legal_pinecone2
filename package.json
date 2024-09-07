@@ -25,8 +25,8 @@
     "p-limit": "^6.1.0",
     "pdf-parse": "^1.1.1",
     "peggy": "^3.0.2",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^10.0.0"
