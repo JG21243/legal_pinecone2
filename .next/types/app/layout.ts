@@ -1,4 +1,4 @@
-// File: /workspaces/codespaces-blank/legal-semantic-search/src/app/layout.tsx
+// File: /workspaces/legal_pinecone2/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

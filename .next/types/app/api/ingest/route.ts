@@ -1,4 +1,4 @@
-// File: /workspaces/codespaces-blank/legal-semantic-search/src/app/api/ingest/route.ts
+// File: /workspaces/legal_pinecone2/src/app/api/ingest/route.ts
 import * as entry from '../../../../../src/app/api/ingest/route.js'
 import type { NextRequest } from 'next/server.js'
 
